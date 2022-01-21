@@ -1,4 +1,3 @@
-10 lines (9 sloc)  219 Bytes
    
 /**
  * Configuration for jest tests
